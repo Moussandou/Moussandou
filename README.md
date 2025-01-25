@@ -1,7 +1,7 @@
 <img src="https://github.com/Moussandou/Moussandou/blob/main/banner.jpeg" alt="Banner" />
 
 # 💫 About Me:
-👋 Hi there! I’m Moussandou Mroivili, a 2nd-year student in the 5-year Master’s program at Epitech.<br><br>💻 Tech Skills:<br><br>Currently learning C++, but I’ve also worked with C, Python, HTML/CSS/JS, and even Haskell.<br>I’m a Linux enthusiast (you’ll usually find me in the terminal 🖥️).<br>🌟 Experience:<br>I completed a 4-month internship at Icom Provence, where I built a website using WordPress.<br><br>🎮 Hobbies: I’m a big fan of manga, video games, and movies. 🎥<br><br>💼 Feel free to connect with me on LinkedIn. 🚀
+👋 Hi there! I’m Moussandou Mroivili, a 2nd-year student in the 5-year Master’s program at Epitech.<br><br>💻 Tech Skills:<br><br>Currently learning C++, but I’ve also worked with C, Python, HTML/CSS/JS, and even Haskell.<br>I’m a Linux enthusiast (you’ll usually find me in the terminal 🖥️).<br>🌟 Experience:<br>I completed a 4-month internship at Icom Provence, where I built a website using WordPress. You can find it [here](autonomie-numerique.fr/) <br><br>🎮 Hobbies: I’m a big fan of manga, video games, and movies. 🎥<br><br>💼 Feel free to connect with me on LinkedIn. 🚀
 
 
 ## 🌐 Socials:
