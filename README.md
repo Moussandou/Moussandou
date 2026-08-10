@@ -1,7 +1,7 @@
 <img src="https://github.com/Moussandou/Moussandou/blob/main/banner.jpeg" alt="Banner" />
 
 # 💫 About Me:
-👋 Hi there! I'm **Moussandou Mroivili**, a 3rd-year student in the 5-year Master’s program at **Epitech**.
+👋 Hi there! I'm **Moussandou Mroivili**, a 4th-year student in the 5-year Master’s program at **Epitech**.
 
 🚀 Passionate about **Software Engineering, AI, and Entrepreneurship**, I enjoy building impactful tech products and working on innovative projects.
 
